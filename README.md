@@ -24,6 +24,13 @@ $ git push
 # put in username & password
 ```
 
+### Squash
+``` sh
+$ git rebase -i HEAD~2 //number of lastest commits
+$ git push -f
+```
+
+
 ### No more username & password input for every push
 ``` sh   
 # Note that you must first generate a SSH key on your local computer and add it to your 
