@@ -23,6 +23,8 @@ $ git commit -m 'what has changed'
 $ git push 
 # put in username & password
 ```
+### Edit last commit before push
+git commit -amend
 
 ### Squash
 ``` sh
