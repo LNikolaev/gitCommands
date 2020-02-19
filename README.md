@@ -24,7 +24,9 @@ $ git push
 # put in username & password
 ```
 ### Edit last commit before push
+``` sh  
 git commit -amend
+```
 
 ### Squash
 ``` sh
